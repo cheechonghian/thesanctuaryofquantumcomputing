@@ -39,7 +39,6 @@ baseurl: "/thesanctuaryofquantumcomputing" # the subpath of your site, e.g. "/bl
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: 
     github: cheechonghian
     linkedin: chee-chong-hian-532229193
 
