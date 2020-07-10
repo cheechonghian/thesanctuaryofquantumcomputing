@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: The Sanctuary of Quantum Computing
+description: A blog documenting the activities happening in the mind of a scientist in training.
 github_username: cheechonghian
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "thesanctuaryofquantumcomputing"
@@ -39,11 +39,12 @@ baseurl: "/thesanctuaryofquantumcomputing" # the subpath of your site, e.g. "/bl
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: 
+    github: cheechonghian
+    linkedin: chee-chong-hian-532229193
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
